@@ -1,0 +1,25 @@
+# Fairy Land — Warp terminal theme
+# Place in ~/.warp/themes/fairy_land.yaml
+accent: '#D71272'
+background: '#FFFFFF'
+foreground: '#4A4F58'
+details: darker
+terminal_colors:
+  normal:
+    black: '#4A4F58'
+    red: '#970000'
+    green: '#0E8551'
+    yellow: '#936A0B'
+    blue: '#0056A8'
+    magenta: '#D71272'
+    cyan: '#0078E4'
+    white: '#6B7286'
+  bright:
+    black: '#777B82'
+    red: '#B14040'
+    green: '#00602B'
+    yellow: '#B99E60'
+    blue: '#005199'
+    magenta: '#750B8B'
+    cyan: '#916BAF'
+    white: '#F5F5F5'

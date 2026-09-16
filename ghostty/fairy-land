@@ -1,0 +1,24 @@
+# Fairy Land — Ghostty theme
+# https://github.com/jdev7/fairy-land-theme
+
+background = FFFFFF
+foreground = 4A4F58
+cursor-color = 0056A8
+selection-background = B3D7FF
+selection-foreground = 4A4F58
+palette = 0=#4A4F58
+palette = 1=#970000
+palette = 2=#0E8551
+palette = 3=#936A0B
+palette = 4=#0056A8
+palette = 5=#D71272
+palette = 6=#0078E4
+palette = 7=#6B7286
+palette = 8=#777B82
+palette = 9=#B14040
+palette = 10=#00602B
+palette = 11=#B99E60
+palette = 12=#005199
+palette = 13=#750B8B
+palette = 14=#916BAF
+palette = 15=#F5F5F5

@@ -1,0 +1,114 @@
+{
+  "name": "Fairy Land",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#4A4F58",
+    "editorCursor.foreground": "#0056A8",
+    "editor.lineHighlightBackground": "#EEEEEE",
+    "editor.selectionBackground": "#B3D7FF",
+    "editorLineNumber.foreground": "#6B7286",
+    "editorLineNumber.activeForeground": "#4A4F58",
+    "activityBar.background": "#FFFFFF",
+    "sideBar.background": "#FAFAFA",
+    "statusBar.background": "#D71272",
+    "statusBar.foreground": "#FFFFFF",
+    "titleBar.activeBackground": "#FFFFFF"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6B7286",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "keyword.control"
+      ],
+      "settings": {
+        "foreground": "#D71272"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#970000"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#00602B",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.class",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#750B8B"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type.class",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#005199"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.member",
+        "meta.definition.property"
+      ],
+      "settings": {
+        "foreground": "#0E8551"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#0056A8"
+      }
+    },
+    {
+      "scope": [
+        "keyword.control.directive",
+        "meta.preprocessor"
+      ],
+      "settings": {
+        "foreground": "#936A0B"
+      }
+    },
+    {
+      "scope": [
+        "markup.underline.link",
+        "string.other.link"
+      ],
+      "settings": {
+        "foreground": "#916BAF"
+      }
+    },
+    {
+      "scope": "storage.modifier.attribute",
+      "settings": {
+        "foreground": "#750B8B"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "fairy-land-theme",
+  "displayName": "Fairy Land",
+  "description": "A pastel-pink light theme born from an Xcode workspace color theme.",
+  "version": "1.0.0",
+  "publisher": "jdev7",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fairy Land",
+        "uiTheme": "vs",
+        "path": "./themes/fairy-land-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdev7/fairy-land-theme.git"
+  }
+}
